@@ -26,7 +26,7 @@ Apply a tighter discount cap specifically on Bookcases and Tables, where discoun
 🔗 **[View the live interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/harish.bhamu/viz/Book1_17897589447190/Dashboard1?publish=yes
 ))**
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](dashboard_overview.png)
 
 ## Tools
 Tableau (Tableau Public), calculated fields (DAX-equivalent), data cleaning and modeling
